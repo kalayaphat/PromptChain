@@ -1,4 +1,4 @@
-source yobichain.conf
+source promptchain.conf
 
 sudo apt-get -y install php7.0-mbstring php7.0-gettext php7.0-mcrypt
 sudo phpenmod mcrypt
